@@ -1,2 +1,2 @@
-THis is my forst Jenkins project
+This is my first Jenkins project
 Hello from Github!!!!
